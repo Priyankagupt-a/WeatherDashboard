@@ -19,5 +19,5 @@ Follow these steps to get the Weather Dashboard running on your computer:
    Copy the project to your computer by running this command in your terminal:
 
    ```bash
-   git clone 
+   git clone https://github.com/Priyankagupt-a/WeatherDashboard.git
    cd weather-dashboard
